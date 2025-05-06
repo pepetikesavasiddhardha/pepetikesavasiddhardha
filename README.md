@@ -1,4 +1,3 @@
-# venkatasaikesavasiddhardhapepeti
 * Hi I am Siddhardha
 * I am working as ML Engineer in Rakuten travel
 * I passed out from Indian Institute oF Technology Indore in 2023
